@@ -71,27 +71,7 @@ A modern and responsive Role-Based Access Control (RBAC) system built with React
 
 ## 🚀 Running Locally
 
-### Prerequisites
-
-Before you begin, ensure you have the following installed:
-- Node.js (v16.0.0 or higher)
-- npm (v8.0.0 or higher)
-- Git
-
-### Step 1: Clone the Repository
-
-```bash
-git clone https://github.com/Atmalviya/VRV-Security-Assignment.git
-cd VRV-Security-Assignment
-```
-
-### Step 2: Install Dependencies
-
-```bash
-npm install
-```
-
-### Step 3: Start Development Server
+### Start Development Server
 
 ```bash
 npm run dev
@@ -108,50 +88,3 @@ src/
 ├── schemas/        # Validation schemas
 ├── types/          # TypeScript interfaces
 └── assets/         # Static assets
-```
-
-## 📝 Assignment Evaluation Criteria Met
-
-1. **Creativity and Design Quality**
-   - Modern, clean interface
-   - Intuitive navigation
-   - Consistent design language
-
-2. **Responsiveness**
-   - Mobile-first approach
-   - Adaptive layouts
-   - Touch-friendly interface
-
-3. **Functionality**
-   - Complete CRUD operations
-   - Role management
-   - Permission handling
-
-4. **User Experience**
-   - Smooth transitions
-   - Loading states
-   - Error handling
-   - Intuitive workflows
-
-5. **Technical Skill**
-   - TypeScript implementation
-   - Code organization
-   - Modern React practices
-   - Form validation
-
-6. **Documentation**
-   - Comprehensive README
-   - Clear code comments
-   - Type definitions
-
-7. **Security Practices**
-   - Input validation
-   - Error handling
-   - Type safety
-   - Secure API calls
-
-8. **Additional Features**
-   - Advanced filtering
-   - Sorting capabilities
-   - Search functionality
-   - Dashboard analytics
